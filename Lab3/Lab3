@@ -1,0 +1,14 @@
+#1: 
+1718382455
+#2:
+8m
+#3:
+Public Key (e, n): (65537, 47941)
+Private Key (d, n): (20973, 47941)
+Ciphertext C for M = 26729 is: 27349
+
+Public Key (e, n): (1, 35183)
+Private Key (d, n): (9473, 35183)
+Decrypted plaintext M for C = 29600 is: 26729
+#4: 
+Decrypted plaintext string in ASCII code: flow
